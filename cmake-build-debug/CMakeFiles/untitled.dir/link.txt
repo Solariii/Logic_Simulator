@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Node.cpp.o CMakeFiles/untitled.dir/Gate.cpp.o CMakeFiles/untitled.dir/ANDGate.cpp.o CMakeFiles/untitled.dir/ORGate.cpp.o CMakeFiles/untitled.dir/Simulator.cpp.o  -o untitled 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/solari/CLionProjects/untitled/Gate.h
+Node.h
+/home/solari/CLionProjects/untitled/Node.h
+
+/home/solari/CLionProjects/untitled/Node.h
+string
+-
+
+/home/solari/CLionProjects/untitled/Simulator.h
+Gate.h
+/home/solari/CLionProjects/untitled/Gate.h
+bits/stdc++.h
+-
+
+/home/solari/CLionProjects/untitled/main.cpp
+iostream
+-
+Simulator.h
+/home/solari/CLionProjects/untitled/Simulator.h
+bits/stdc++.h
+-
+
